@@ -1,6 +1,6 @@
 # CakeCraft 
 ### Shape Your Sweet Dream
-CakeCraft  - Diffusion model to generate Cakes for Inspirational Baking 
+Diffusion model to generate Cakes for Inspirational Baking or just fun make your promots into cakes 
 ## Concept Design 
 ![Concept Design](https://i.imgur.com/Cbapt7z.png)
 ## Responsive Design Layout
