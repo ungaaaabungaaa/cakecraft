@@ -6,7 +6,7 @@ export default function Home() {
     <h1 className="font-bold text-2xl md:text-4xl lg:text-6xl">CakeCraft</h1>
     <h2 className="text-base font-bold">Shape Your Sweet Dream</h2>
     <br></br>
-    <p className="text-sm font-bold">Coming Soon</p>
+    <button>Coming Soon</button>
     </div>
     </>
   );

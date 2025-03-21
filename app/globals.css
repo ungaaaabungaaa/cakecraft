@@ -3,6 +3,7 @@
   --background: #FFE6C7;
   --foreground: #000000;
   --button: #FF6000;
+  --white :#FFF;
 }
 
 body {
@@ -14,4 +15,18 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+
+button
+{
+  background-color: var(--button);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border: none;
+  color: var(--white);
+  cursor: pointer;
+  outline: none;
+  border-radius: 1.1rem;
+  padding-left: 2.4rem;
+  padding-right: 2.4rem;
 }
